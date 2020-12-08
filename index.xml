@@ -6,10 +6,19 @@
     <description>Recent content on Fogoo&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 20:36:48 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 20:39:16 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tuesday</title>
+      <link>/post/tuesday/</link>
+      <pubDate>Tue, 08 Dec 2020 20:39:16 +0800</pubDate>
+      
+      <guid>/post/tuesday/</guid>
+      <description>I don&amp;rsquo;t know whether there is available for uploading picture. Just find some picture here that might be a good decoration.</description>
+    </item>
     
     <item>
       <title>Today</title>
